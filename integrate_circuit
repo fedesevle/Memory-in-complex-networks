@@ -6,7 +6,7 @@ import time
 import seaborn as sns
 sns.set()
 import pickle
-import clasemotif
+import circuit_class
 #%%
 def lhs(n_variables,n_muestras,random_seed=0):
     random.seed(random_seed)
