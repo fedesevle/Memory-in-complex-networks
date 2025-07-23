@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import random
 import imp
-clasemotif = imp.load_source('clasemotif','C:\\Users\\Usuario\\Desktop\\Memoria\\Ma buscando maximizar memoria\\clasemotif.py')
+import circuit_class
 import scipy as sc
 from scipy import signal
 import seaborn as sns
