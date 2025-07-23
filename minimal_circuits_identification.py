@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import json
 import random
-import clasemotif
+import circuit_class
 from scipy import interpolate
 import time
 import seaborn as sns
